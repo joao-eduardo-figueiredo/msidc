@@ -9,7 +9,7 @@
 ### Primeiro Semestre
 
 #### Obrigatórias
-- Introdução à Computabilidade, Complexidade e Criptografia
+- [**Introdução à Computabilidade, Complexidade e Criptografia**](/year_one/first_semester/mandatory/iccc/index.md)
 - Segurança da Informação nas Organizações 
 - Direito da Cibersegurança 
 
