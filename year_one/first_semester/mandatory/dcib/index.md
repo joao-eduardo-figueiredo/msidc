@@ -28,3 +28,6 @@
     1. A responsabilidade empresarial dos fabricantes.
     1. A responsabilidade do legislador em matéria da internet.
     1. A responsabilidade civil dos operadores e utilizadores.
+
+---
+[<kbd>Voltar</kbd>](/README.md)

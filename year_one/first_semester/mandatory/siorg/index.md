@@ -1,5 +1,4 @@
 [<kbd>English</kbd>](index_en.md)
-
 ---
 
 # Segurança da Informação nas Organizações
@@ -19,3 +18,6 @@
     1. Gestão de configuração;
     1. Planos de contingência;
     1. Supervisão do cumprimento da política de segurança.
+
+---
+[<kbd>Voltar</kbd>](/README.md)

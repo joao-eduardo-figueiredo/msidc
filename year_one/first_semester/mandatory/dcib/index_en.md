@@ -27,3 +27,6 @@
     1. The corporate liability of manufacturers.
     1. The responsibility of the legislator on internet issues.
     1. The civil liability of the operators and the users.
+
+---
+[<kbd>Back</kbd>](/index_en.md)

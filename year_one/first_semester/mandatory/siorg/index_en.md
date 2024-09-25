@@ -19,3 +19,6 @@
     1. Configuration management;
     1. Contingency plans;
     1. Monitoring compliance of security policy.
+
+---
+[<kbd>Back</kbd>](/index_en.md)
