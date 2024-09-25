@@ -10,7 +10,7 @@
 
 #### Obrigatórias
 - [**Introdução à Computabilidade, Complexidade e Criptografia**](/year_one/first_semester/mandatory/iccc/index.md)
-- Segurança da Informação nas Organizações 
-- Direito da Cibersegurança 
+- [**Segurança da Informação nas Organizações**](/year_one/first_semester/mandatory/siorg/index.md)
+- [**Direito da Cibersegurança**](/year_one/first_semester/mandatory/dcib/index.md)
 
 #### Opcionais
